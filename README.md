@@ -76,10 +76,12 @@ Built an end-to-end data processing and web application pipeline for weather dat
 ## 🎓 Education
 
 **New York University, Tandon School of Engineering**  
-M.S. in Urban Data Science | Expected May 2026
+M.S. in Urban Data Science |  May 2026
+GPA: 3.78/4.0
 
 **Capital University of Economics and Business**  
 B.S. in Data Science and Big Data Technology | Jun 2024
+GPA: 3.5/4.0
 
 ---
 
